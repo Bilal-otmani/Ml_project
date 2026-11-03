@@ -1,0 +1,2 @@
+Modele,max_depth,min_samples_leaf,min_samples_split,criterion,MAE,RMSE,R2
+Arbre de regression,10,3,10,squared_error,40.31088204644742,66.55384049473368,0.9091061219294538

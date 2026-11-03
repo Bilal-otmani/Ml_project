@@ -1,0 +1,22 @@
+{
+  "max_depth": 10,
+  "min_samples_leaf": 3,
+  "min_samples_split": 10,
+  "criterion": "squared_error",
+  "baseline_train_metrics": {
+    "MAE": 0.0,
+    "RMSE": 0.0,
+    "R2": 1.0
+  },
+  "baseline_depth": 32,
+  "tuned_train_metrics": {
+    "MAE": 22.313489324834457,
+    "RMSE": 35.885081906719535,
+    "R2": 0.9542353811790774
+  },
+  "test_metrics": {
+    "MAE": 40.31088204644742,
+    "RMSE": 66.55384049473368,
+    "R2": 0.9091061219294538
+  }
+}
